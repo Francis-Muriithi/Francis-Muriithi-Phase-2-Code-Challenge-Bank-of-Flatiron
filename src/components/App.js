@@ -1,5 +1,6 @@
 import React from "react";
 import AccountContainer from "./AccountContainer";
+import "../index.css";
 
 function App() {
   return (
